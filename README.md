@@ -1,6 +1,6 @@
-# MVPA and FCPA decoding code
+# Cognitive Load Project Code
 
-Python code for the voxel-pattern (MVPA) and functional-connectivity-pattern (FCPA) decoding analyses of two fMRI experiments.
+Customized Python code for the manuscript **Increased cognitive load expands, stabilizes, and aligns visual representation across the human brain**.
 
 ```
 expt1/                          # experiment 1: color/shape attention x 1-back/2-back load, 4 object categories
